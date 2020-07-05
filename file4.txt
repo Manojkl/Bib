@@ -1,0 +1,5 @@
+CHACHADA, Sachin y KUO, C-C Jay. "Environmental sound recognition: A survey". APSIPA Transactions on Signal and Information Processing. 2014, vol 3, 
+PICZAK, Karol J. Environmental sound classification with convolutional neural networks. 2015.p. 1--6. 
+SALAMON, Justin y BELLO, Juan Pablo. "Deep convolutional neural networks and data augmentation for environmental sound classification". IEEE Signal Processing Letters. 2017, vol 24, n�m. 3, p. 279--283.
+SPRENGEL, Elias, JAGGI, Martin, KILCHER, Yannic y HOFMANN, Thomas. Audio based bird species identification using deep learning techniques. 2016. 
+
