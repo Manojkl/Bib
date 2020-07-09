@@ -15,8 +15,10 @@ decade. Recent work has focused on the appraisal of non-stationary aspects of en
 pertaining to signal’s temporal and spectral characteristics. Furthermore, sequential learning methods have been used to capture the long-term variation of environmental sounds. In this survey, we will offer a qualitative and elucidatory survey on recent
 developments. It includes four parts: (i) basic environmental sound-processing schemes, (ii) stationary ESR techniques, (iii) non-stationary ESR techniques, and (iv) performance comparison of selected methods. Finally, concluding remarks and future
 research and development trends in the ESR field will be given.},
+  Comment                  = {This is a good paper},
   Owner                    = {manoj},
   Publisher                = {Cambridge University Press},
+  Review                   = {This is a first paper that implemented CNN on environmental sound},
   Timestamp                = {2020.04.12}
 }
 

@@ -1,22 +1,23 @@
 % Encoding: UTF-8
 
-
 @Article{chachada2014environmental,
-  Title                    = {Environmental sound recognition: A survey},
-  Author                   = {Chachada, Sachin and Kuo, C-C Jay},
-  Journal                  = {APSIPA Transactions on Signal and Information Processing},
-  Year                     = {2014},
-  Note                     = {Number of citation - 130},
-  Volume                   = {3},
-
-  Abstract                 = {Although research in audio recognition has traditionally focused on speech and music signals, the problem of environmental sound recognition (ESR) has received more attention in recent years. Research on ESR has significantly increased in the past
+  author    = {Chachada, Sachin and Kuo, C-C Jay},
+  journal   = {APSIPA Transactions on Signal and Information Processing},
+  title     = {Environmental sound recognition: A survey},
+  year      = {2014},
+  note      = {Number of citation - 130},
+  volume    = {3},
+  abstract  = {Although research in audio recognition has traditionally focused on speech and music signals, the problem of environmental sound recognition (ESR) has received more attention in recent years. Research on ESR has significantly increased in the past
 decade. Recent work has focused on the appraisal of non-stationary aspects of environmental sounds, and several new features predicated on non-stationary characteristics have been proposed. These features strive to maximize their information content
 pertaining to signal’s temporal and spectral characteristics. Furthermore, sequential learning methods have been used to capture the long-term variation of environmental sounds. In this survey, we will offer a qualitative and elucidatory survey on recent
 developments. It includes four parts: (i) basic environmental sound-processing schemes, (ii) stationary ESR techniques, (iii) non-stationary ESR techniques, and (iv) performance comparison of selected methods. Finally, concluding remarks and future
 research and development trends in the ESR field will be given.},
-  Owner                    = {manoj},
-  Publisher                = {Cambridge University Press},
-  Timestamp                = {2020.04.12}
+  comment   = {This is a good paper
+Review:
+This is a first paper that implemented CNN on environmental sound},
+  owner     = {manoj},
+  publisher = {Cambridge University Press},
+  timestamp = {2020.04.12},
 }
 
 @InProceedings{piczak2015environmental,
